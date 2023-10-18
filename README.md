@@ -1,6 +1,7 @@
 # NETFLIX MOVIES AND TV SHOWS CLUSTERING
 
-Project Type: Unsupervised
+Project Type: Unsupervised 
+
 Author: Keshav Kushwah
 
 ## Project Summary
