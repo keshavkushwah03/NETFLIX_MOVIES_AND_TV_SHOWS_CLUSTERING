@@ -60,6 +60,8 @@ To enhance content recommendation and user personalization on Netflix, this proj
 
 ## Author
 
-Keshav Kushwah
-Contact: keshavkushwah03@gmail.com
+Keshav Kushwah 
+
+Contact: keshavkushwah03@gmail.com 
+
 Feel free to reach out if you have any questions or suggestions!
